@@ -13,7 +13,7 @@ int main()
 
     string ime_prezime[100];
     double prosjek[100];
-
+    // komentar
     for (int i = 0; i < brUcenika; i++)
     {
         cout << "Unesite prosjek " << i + 1 << ". ucenika: ";
